@@ -1,1 +1,12 @@
-theme: jekyll-theme-minimal
+title: Merculbir
+author: Josile
+email: merculbir.josile@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Que va-t-il lui arriver ?
+  
+# social links
+github_username:  https://github.com/spaenleh
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: minima

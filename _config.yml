@@ -15,4 +15,6 @@ header_pages:
 minima:
   date_format: "%-d %B %Y"
 
+masthead: /blaz_merculbir.png
+
 theme: minima

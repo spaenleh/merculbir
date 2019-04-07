@@ -1,9 +1,21 @@
 ---
-title: Merculbir, l'histoire, la vraie
+title: Merculbir
 date: 2019-04-07
 author: Josile
 ---
 
-Découvrez la vérité et ses faces cachées
+Découvrez la Vérité et ses faces cachées.
 
-L'aventure d'Antoine, étudiant. Disponible maintenant.
+- [La Falaise]({% post_url 2019-04-07-LaFalaise %})
+
+
+L'aventure d'Antoine, étudiant.
+
+- [Introduction]({% post_url 2019-04-06-Introduction %})
+- [Chapitre 1]({% post_url 2019-04-07-Chapitre1 %})
+
+
+Les Chapitres viendront au fur et à mesure de l'écriture.
+Je ne promets rien mais l'idée est d'avoir un rythme régulier.
+
+Bonne lecture !

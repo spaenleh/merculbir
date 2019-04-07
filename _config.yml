@@ -17,6 +17,6 @@ minima:
 
 masthead: /blaz_merculbir.png
 
-relative_url: /merculbir
+baseurl: "/merculbir"
 
 theme: minima

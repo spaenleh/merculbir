@@ -1,6 +1,6 @@
 ---
 title: La Falaise
-<!-- date: 2019-04-07 -->
+date: 2019-04-07
 author: Josile
 ---
 

@@ -12,6 +12,5 @@ Le métro arriva enfin et tout le monde se pressa de monter à bord pour profite
 
 
 
-------------------------------------------------------------------------------
-
+<div class="sep"></div>
 <div style="text-align: right"> Lire la suite : <a href="{{site.baseurl}}{% post_url 2019-04-07-Chapitre1 %}">Chapitre 1</a> </div>

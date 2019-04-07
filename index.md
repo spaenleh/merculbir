@@ -6,8 +6,7 @@ author: Josile
 
 Découvrez la Vérité et ses faces cachées.
 
-- [La Falaise]({{"/" | relative_url}}{% post_url 2019-04-07-LaFalaise %})
-
+- [La Falaise]({{relative_url}}{% post_url 2019-04-07-LaFalaise %})
 
 L'aventure d'Antoine, étudiant.
 

@@ -10,8 +10,8 @@ Découvrez la Vérité et ses faces cachées.
 
 L'aventure d'Antoine, étudiant.
 
-- [Introduction]({{ relative_url }}{% post_url 2019-04-06-Introduction %})
-- [Chapitre 1]({{ relative_url }}{% post_url 2019-04-07-Chapitre1 %})
+- [Introduction]({{ site.baseurl }}{% post_url 2019-04-06-Introduction %})
+- [Chapitre 1]({{ site.baseurl }}{% post_url 2019-04-07-Chapitre1 %})
 
 
 Les Chapitres viendront au fur et à mesure de l'écriture.

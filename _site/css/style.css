@@ -18,3 +18,39 @@ img:hover {
   margin-top: 50px;
   border-bottom: 1px solid #e8e8e8;
 }
+
+.wrapper_error404 {
+  /* position: absolute; */
+  top: 50%;
+  width: 300px;
+  border: 5px solid red;
+  margin: 12.5% auto;
+  text-align: center;
+  padding: 10px;
+  /* display: inline-block; */
+}
+
+.wrapper_error404 p {
+  /* margin: 0; */
+}
+
+.wrapper_error404 h1 {
+  font-size: 150px;
+  margin: -20px;
+  padding: 0;
+}
+
+.wrapper_error404 p a {
+  border: 2px solid blue;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: blue;
+  color: white;
+  border-radius: 15px;
+  width: 100px;
+}
+
+.centerstars {
+  text-align: center;
+  font-style: italic; 
+}

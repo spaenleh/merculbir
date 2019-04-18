@@ -9,3 +9,6 @@ nextLink: # For posts that have a following #
 
 
 # Content of the page #
+
+
+<div class="centerstars"><p> *    *    * </p></div>

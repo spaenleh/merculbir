@@ -28,3 +28,6 @@ defaults:
       layout: "post"
 
 theme: minima
+
+# Google Analytics
+google_analytics: UA-138656451-1

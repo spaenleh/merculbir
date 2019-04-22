@@ -10,12 +10,15 @@ github_username: spaenleh
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 header_pages:
+  - guide.md
   - about.md
   - contact.md
+
 minima:
   date_format: "%-d %B %Y"
 
 masthead: /blaz_merculbir.png
+guide_icon: /guide_icon.png
 
 baseurl: "/merculbir"
 
@@ -26,6 +29,17 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
+  -
+    scope:
+      path: ""
+      type: "antoine"
+    values:
+      layout: "antoine"
+
+
+collections:
+  antoine:
+    output: true
 
 theme: minima
 

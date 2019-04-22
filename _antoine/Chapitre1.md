@@ -3,7 +3,7 @@ title: Chapitre 1
 date: 2019-04-17
 author: Josile
 nextLink:
-  name: 2019/04/17/Chapitre2
+  name: antoine/Chapitre2
   link: Chapitre 2
 ---
 

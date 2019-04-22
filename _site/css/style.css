@@ -1,11 +1,12 @@
 
+
 .site-masthead {
   display: block;
   padding: 5px;
   float: left;
 }
 
-img:hover {
+header img:hover {
   border-bottom: 1px solid black;
 }
 
@@ -23,34 +24,75 @@ img:hover {
   /* position: absolute; */
   top: 50%;
   width: 300px;
-  border: 5px solid red;
+  border: 3px dashed #b8b8b8;
   margin: 12.5% auto;
   text-align: center;
   padding: 10px;
+
   /* display: inline-block; */
 }
 
 .wrapper_error404 p {
-  /* margin: 0; */
+  color: #888585;
 }
 
 .wrapper_error404 h1 {
   font-size: 150px;
   margin: -20px;
   padding: 0;
+  background: -webkit-linear-gradient(left, #FF842F 0%, #A817C9 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
-.wrapper_error404 p a {
-  border: 2px solid blue;
-  margin-top: 20px;
-  padding: 10px;
-  background-color: blue;
+.wrapper_error404 a.button {
+  /* border: 2px solid blue; */
+  padding: 10px 100px 10px 100px;
+  /* padding: 10px; */
+  /* background: none; */
+  background: linear-gradient(to right, #FF842F 0%, #A817C9 100%);
   color: white;
+  /* font-size: 20px; */
   border-radius: 15px;
   width: 100px;
 }
 
+.wrapper_error404 p:last-child {
+  margin-top: 50px;
+}
+
 .centerstars {
   text-align: center;
-  font-style: italic; 
+  font-style: italic;
 }
+
+.welcome-speech {
+  padding: 100px 50px 200px 50px;
+  font-size: 1.5em;
+  text-align: center;
+  font-family: cursive;
+  /* background-color: #ededec; */
+}
+
+.episode-meta {
+  font-size: 14px;
+  color: #828282;
+}
+
+li.antoine h3 {
+  margin-bottom: 0px;
+}
+
+.home p, .home h2 {
+  background: -webkit-linear-gradient(left, #FF842F 0%, #A817C9 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.home p {
+  margin-top: 50px;
+  font-size: 0.9em;
+}
+/* body {
+  background-color: #353537;
+}*/

@@ -7,8 +7,8 @@ nextLink:
   link: Chapitre 3 (pas encore disponible)
 ---
 
-(Non encore disponible)
-La lumière était si forte, elle s'insinuait partout, tout n'était que lumière et chaleur. Des fourmillements se frayaient un chemin vers son cerveau encore endormi. Ne sachant pas ce qui lui arrivait il resta paralysé attendant de savoir comment réagir à tous ces nouveaux stimulus ... Mais il était encore trop faible et une torpeur douce s'empara de lui.
+La lumière était si forte, elle s'insinuait partout, tout n'était que lumière et chaleur.
+Des fourmillements se frayaient un chemin vers son cerveau encore endormi. Ne sachant pas ce qui lui arrivait il resta paralysé attendant de savoir comment réagir à tous ces nouveaux stimulus ... Mais il était encore trop faible et une torpeur douce s'empara de lui.
 
 Un rayon de soleil caressa sa joue, un rayon de ce soleil de décembre, clair et frais comme l'air des matins à la campagne.
 

@@ -2,6 +2,8 @@
 title: Chapitre 2
 date: 2019-04-17
 author: Josile
+update: 2020-03-15
+updateAuthor: Josile
 nextLink:
   name: antoine/Chapitre3
   link: Chapitre 3 (pas encore disponible)
